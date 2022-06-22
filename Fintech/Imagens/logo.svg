@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg13102"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13104"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.24320286"
+     inkscape:cx="-111.01843"
+     inkscape:cy="820.30285"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs13099">
+    <rect
+       x="185.64749"
+       y="407.99274"
+       width="185.64749"
+       height="62.602058"
+       id="rect2696" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g13216"
+       transform="matrix(20.060284,0,0,20.060284,-2000.3615,-2836.452)">
+      <rect
+         style="fill:#017357;fill-opacity:1;stroke-width:0.453985;paint-order:fill markers stroke"
+         id="rect19564"
+         width="10.238"
+         height="12.712738"
+         x="100.07629"
+         y="141.03116"
+         ry="2.3764715"
+         rx="0"
+         transform="matrix(0.99991338,0.01316208,-0.00137503,0.99999905,0,0)"
+         inkscape:export-filename="C:\Users\Silvio Michel\Documents\FIAP\ImagensFintech\Logocomnome.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.2894px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin';fill:#ffffff;fill-opacity:1;stroke-width:0.307237;paint-order:fill markers stroke"
+         x="100.26202"
+         y="161.01797"
+         id="text5254"
+         transform="scale(1.0431729,0.95861385)"
+         inkscape:export-filename="C:\Users\Silvio Michel\Documents\FIAP\ImagensFintech\Logocomnome.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan5252"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.307237;paint-order:fill markers stroke"
+           x="100.26202"
+           y="161.01797">t</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.35100507,0,0,0.31229761,34.383637,14.112103)"
+         id="text2694"
+         style="font-size:40px;line-height:1.25;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin';white-space:pre;shape-inside:url(#rect2696);fill:#ffffff;fill-opacity:1;paint-order:fill markers stroke"
+         inkscape:export-filename="C:\Users\Silvio Michel\Documents\FIAP\ImagensFintech\Logocomnome.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           x="185.64844"
+           y="444.87338"
+           id="tspan13229">F</tspan></text>
+    </g>
+  </g>
+</svg>
